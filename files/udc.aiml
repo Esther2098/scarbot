@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>hello
+</pattern>
+    <template>hey there , are you ready for your travels?</template>
+</category>
+<category>
+    <pattern>yes</pattern>
+    <template>please enter your first location
+</template>
+</category>
+<category>
+    <pattern>Paris</pattern>
+    <template>please enter your second location</template>
+</category>
+<category>
+    <pattern>London</pattern>
+    <template>Please enter your third location</template>
+</category>
+<category>
+    <pattern>Rome</pattern>
+    <template>Please enter your forth location</template>
+</category>
+<category>
+    <pattern>Berlin</pattern>
+    <template>Please enter your fifth location</template>
+</category>
+<category>
+    <pattern>Amsterdam</pattern>
+    <template>Edit bot response</template>
+</category>
+</aiml>
